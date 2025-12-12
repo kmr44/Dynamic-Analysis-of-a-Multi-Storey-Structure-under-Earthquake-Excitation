@@ -1,5 +1,3 @@
-# Dynamic-Analysis-of-a-Multi-Storey-Structure-under-Earthquake-Excitation
-MATLAB-based dynamic simulation of a 5-DOF multi-storey structure under earthquake excitation using modal analysis, damping modeling, and El-Centro ground motion.
 # Dynamic Analysis of a Multi-Storey Structure under Earthquake Excitation
 
 This project performs the dynamic analysis of a 5-DOF shear-frame structure subjected to the 1940 El-Centro earthquake record. The system is modelled using lumped masses and inter-storey stiffness values, and solved using modal analysis to study vibration behaviour, damping influence, and response amplification across floors.
