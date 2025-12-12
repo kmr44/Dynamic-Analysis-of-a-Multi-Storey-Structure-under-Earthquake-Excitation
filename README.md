@@ -24,19 +24,19 @@ This project performs the dynamic analysis of a 5-DOF shear-frame structure subj
 ---
 
 ## 📁 Repository Structure
-📂 Dynamic_Analysis_MDOF
-│
-├── code/
-│   ├── main.m                     # MATLAB script
-|
-├── data/
-│   ├── elcentro.csv               # Ground acceleration dataset
-│
-├── cad/
-│   └── 5_story_structure_model.SLDPRT     # CAD model
-│
-├── report/
-│   └── Dynamic_Analysis_of_Multi_Story_Structure_Report.pdf   # Course project report
-│
-|── README.md                      # Project documentation
+
+- **Code/**
+  - `main.m` — MATLAB script
+
+- **Data/**
+  - `elcentro.csv` — Ground acceleration dataset
+
+- **CAD/**
+  - `5_story_structure_model.SLDPRT` — CAD model of the structure
+
+- **Report/**
+  - `Dynamic_Analysis_of_Multi_Story_Structure_Report.pdf` — Project report
+
+- **README.md** — Project documentation
+
 
